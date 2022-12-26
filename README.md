@@ -1,6 +1,6 @@
 # vm-gpu-passthrough-spice
 
-# Keywords: spice, vioserial, looking glass, DXGI, inter-vm shared memory
+Keywords: spice, vioserial, looking glass, DXGI, inter-vm shared memory
 
 # Objective
 Creating a GPU Passthrough Virtual "Video" Adapter GPUPT to forward GPU Accelerated VM Client Screen, like my lagecy Windows XP, to host "Display Spice", via standard Spice protocol.
