@@ -19,7 +19,7 @@ There are numerous technical issues and uncertainties that need divide and conqu
 6) What's the bandwidth required to display one standard HD 1920x1080 x 24-bit x 60Hz (= 374MB/s) display?  How about dual 8k x 24-bit x 120Hz (= 23.888 GB/s)?
 7) Adding it to qemu and virt-manager/libvirt?
 8) Implementing it as a Windows driver?  Reference to VGA and QXL driver?
-9) Fully integrated to qemu KVM and can be used on cockpit
+9) Fully integrated to virt-manager on libvirt on qemu KVM and can be used on cockpit
 10) Windows XP doesn't support DXGI desktop duplication...
 
 
